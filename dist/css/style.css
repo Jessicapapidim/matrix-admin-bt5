@@ -15207,13 +15207,10 @@ textarea.form-control {
         width: 25px;
         height: 25px;
     }
-
-    /*    
 @media (max-width: 767px) {
     .custom-carousel .carousel-control-next,
     .custom-carousel .carousel-control-prev {
         top: 15%;
-    }
     .custom-carousel .carousel-control-next {
         right: -19px;
     }
